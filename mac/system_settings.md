@@ -47,6 +47,11 @@ FileVault, 방화벽 등도 사용합시다.
 
 앱 단축키에서는 각 응용프로그램에 대한 단축키를 임의로 할당할 수 있다. 편리할대로 이것저것 사용하는 중.
 
+- 맥북프로 터치바 관련
+![keyboard](./img/sys_keyboard03.png)
+
+맥북프로 터치바에서 옵션키를 기본으로 사용할 프로그램들을 지정할 수 있다.
+
 #### 에너지 절약
 ![lang](./img/sys_energy01.png)
 ![lang](./img/sys_energy02.png)
