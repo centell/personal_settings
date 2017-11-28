@@ -1,11 +1,12 @@
 # Firebase guide
 
-mac 기준입니다.
+mac 기준으로 작성함.
+구글에서 제공하는 공식 개발 문서는 [여기](https://firebase.google.com/docs/?hl=ko)에서 확인 가능하다.
 
 ## Firebase 개발을 위한 로컬 환경 설정
 
 구글에서 제공하는 [ `Firebase CLI 참조 `](https://firebase.google.com/docs/cli/?hl=ko)문서를 참조.
-npm 을 이용하여 Firebase cli를 설치합니다.
+npm 을 이용하여 Firebase cli를 설치한다.
 
 ### 1. node.js설치
 [여기](https://nodejs.org/en/download/)에서 node.js를 다운받고 설치
