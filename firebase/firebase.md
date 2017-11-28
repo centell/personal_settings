@@ -13,12 +13,12 @@ npm 을 이용하여 Firebase cli를 설치한다.
 
 ### 2. Firebase cli 설치
 node.js 를 설치하며 함께 설치된 `npm`을 이용해서 `firebase-tools` 를 전역 설치한다.
-
+터미널을 열어 설치 작업을 진행하자.
 ```shell
 sudo npm install firebase-tools -g
 ```
 
-잘 설치되었는지 버전 확인 명령을 이용해서 확인해봅시다.
+잘 설치되었는지 버전 확인 명령을 이용해서 확인해본다.
 ```shell
 firebase --version
 ```
