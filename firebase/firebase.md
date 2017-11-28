@@ -78,3 +78,5 @@ firebase deploy
 ```
 
 업로드되고 나면 url도 알려준다. 해당 프로젝트의 [Firebase Console](console.firebase.google.com/)에 들어간 뒤, Develop > Hosting 으로 접근하면 배포 기록을 볼 수 있다.
+
+![console](./img/console02.png)
