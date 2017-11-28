@@ -6,6 +6,7 @@
 ### 설정
 - [맥 기본 시스템 설정](./mac/system_settings.md)
 
-### 설치
-- [Homebrew](https://brew.sh/index_ko.html)
-- 
+
+### 개발
+- [Homebrew 설치](https://brew.sh/index_ko.html)
+- [Firebase 개발 환경](./firebase)
