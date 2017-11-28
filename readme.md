@@ -9,4 +9,4 @@
 
 ### 개발
 - [Homebrew 설치](https://brew.sh/index_ko.html)
-- [Firebase 개발 환경](./firebase)
+- [Firebase 개발 환경](./firebase/firebase.md)
