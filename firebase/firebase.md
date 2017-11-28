@@ -70,3 +70,11 @@ Listening at http://localhost:5000
 `http://localhost:5000`로 접속하면 작업중인 폴더의 `index.html`파일을 내장 서버에서 실행한다.
 
 이제 Firebase로 웹 개발을 할 준비가 끝났다.
+
+### 7. 호스팅
+작업물을 Firebase가 제공하는 호스팅으로 업로드할 수 있다.
+```
+firebase deploy
+```
+
+업로드되고 나면 url도 알려준다. 해당 프로젝트의 [Firebase Console](console.firebase.google.com/)에 들어간 뒤, Develop > Hosting 으로 접근하면 배포 기록을 볼 수 있다.
