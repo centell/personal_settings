@@ -9,7 +9,7 @@
 ### 개발 환경
 - [Homebrew 설치](https://brew.sh/index_ko.html)
 - [Firebase 개발 환경](./firebase/firebase.md)
-- [Firefox userchrome.css](./firefox/userChrome.css) / [참고](https://centell.github.io/firefox/2017/11/17/firefox-chromecss.html)
+- [Firefox userChrome.css](./firefox/userChrome.css) / [참고](https://centell.github.io/firefox/2017/11/17/firefox-chromecss.html)
 
 ### 잘 쓰고 있는 Mac 앱들
 
