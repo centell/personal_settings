@@ -1,0 +1,50 @@
+/*
+ * Your Stylesheet
+ *
+ * This stylesheet is loaded when Atom starts up and is reloaded automatically
+ * when it is changed and saved.
+ *
+ * Add your own CSS or Less to fully customize Atom.
+ * If you are unfamiliar with Less, you can read more about it here:
+ * http://lesscss.org
+ */
+
+/*
+ * Examples
+ * (To see them, uncomment and save)
+ */
+
+// style the background color of the tree view
+.tree-view {
+  background-color: whitesmoke;
+}
+
+// style the background and foreground colors on the atom-text-editor-element itself
+
+// 기본 스타일(태그 + 글자 등)
+atom-text-editor {
+  color: black;
+}
+
+// style UI elements inside atom-text-editor
+atom-text-editor::shadow .cursor {
+  border-color: black;
+}
+
+// id, class 등의 값 스타일
+atom-text-editor::shadow .string {
+  color: #c62b2b;
+  font-weight: normal;
+}
+
+// 꺽쇠의 스타일
+atom-text-editor::shadow .tag {
+  font-weight: bold;
+
+}
+
+// 테그 이름 스타일
+atom-text-editor::shadow .tag .name {
+  color: #573cff; //파랑
+  font-weight: normal;
+}
