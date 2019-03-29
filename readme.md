@@ -43,6 +43,7 @@ updated at: 2019-03-30
 #### Dev tools
 - **Xcode**(무료): 개발툴. 개발자는 맥을 사면 앱스토어에서 일단 이걸 설치하자. 기본적인 개발 환경 설정을 위해 설치한다. 정말 오래걸린다. 설치 이후 실행을 한 번 해서 시스템 권한도 부여하고, component도 설치한 뒤에 Homebrew를 설치한다. [(링크)](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 - **Homebrew**(무료/매우 매우 추천): Package manager. Xcode가 설치되면 이걸 설치하자. 무조건! [(링크)](https://brew.sh/)
+- **JetBrains Tools(유/무료)**: `WebStorm`, `PHPSTorm`, `PyCharm`, `Android Studio` 등등.. 요즘 가장 만족스럽게 사용하고 있는 강력한 도구들. [(링크)](https://www.jetbrains.com/products.html?fromMenu#)
 - **Atom**(무료): 개발툴. 요즘 손이 잘 안 간다.
 - **VisualStudio Code**(무료): 개발툴. 요즘 간단한걸 작성할 땐 주로 이걸 쓰는데 이유는 단 하나다. 터미널에서 실행할 때 `code .`로 실행할 수 있어서.
 - **Sublime Text**(무료): 개발툴. 실행 속도 하나만큼은 최고라서 용량 큰 파일 뷰어로 사용중..
