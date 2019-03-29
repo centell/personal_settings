@@ -1,6 +1,6 @@
 # personal_settings
 
-개인적으로 사용하는 세팅파일 저장소. 
+개인적으로 사용하는 세팅파일 저장소.  
 updated at: 2019-03-30
 
 ## Mac 사용 설정
@@ -16,27 +16,26 @@ updated at: 2019-03-30
 ### 잘 쓰고 있는 Mac 앱들
 
 #### Productiviry
-- **Alfred 3**(유료/매우 매우 추천): 텍스트 기반 앱 실행, 워크플로우, 스니팻 등 기능이 매우 많다. 없어서는 안 될 최강의 생산성 툴. 이거 없이는 답답해서 못 산다.
+- **Alfred 3**(유료/매우 매우 추천): 텍스트 기반 앱 실행, 워크플로우, 스니팻 등 기능이 매우 많다. 없어서는 안 될 최강의 생산성 툴. 이거 없이는 답답해서 못 산다. [(링크)](https://www.alfredapp.com/)
 - **DEVONthink Pro**(유료): 데이터 관리 툴. 취향탄다. 굉장히 좋은 도구였는데, 요즘 시대엔 좀 안 맞는 것 같다.
-- **Get Plain Text**(무료/매우 추천): 텍스트 복사할 때 서식을 싹 지우고 텍스트만 남긴다. 문서 작성시에 편리하다.
-- **Magnet**(유료/매우 추천): 화면 정리 툴. 창 크기를 키보드 단축키로 바꿀 수 있다. Alfred와 더불어 가장 많이 쓰는 앱.
+- **Get Plain Text**(무료/매우 추천): 텍스트 복사할 때 서식을 싹 지우고 텍스트만 남긴다. 문서 작성시에 편리하다. [(링크)](https://itunes.apple.com/kr/app/get-plain-text/id508368068?mt=12)
+- **Magnet**(유료/매우 추천): 화면 정리 툴. 창 크기를 키보드 단축키로 바꿀 수 있다. Alfred와 더불어 가장 많이 쓰는 앱. [(링크)](https://itunes.apple.com/kr/app/magnet-%EB%A7%88%EA%B7%B8%EB%84%B7/id441258766?mt=12)
 - **OmniFocus**(유료/추천): 일정 관리 툴. 굉장히 강력하고 좋은데 비싼게 흠. 다만 협업에는 사용하기 힘들다.
-- **Skitch**(무료/추천): 프레젠테이션 등을 작성할 때 간단한 이미지 만들기 편함. 취향탄다.
-- **Screen Float**(유료/매우 추천): 스샷 찍어서 화면 최상단에 띄우고 참고할때 쓰는 툴. 개발할 때 매우 편하다.
+- **Skitch**(무료/추천): 프레젠테이션 등을 작성할 때 간단한 이미지 만들기 편함. 취향탄다. [(링크)](https://evernote.com/intl/ko/products/skitch)
+- **Screen Float**(유료/매우 추천): 스샷 찍어서 화면 최상단에 띄우고 참고할때 쓰는 툴. 개발할 때 매우 편하다. [(링크)](https://www.screenfloatapp.com/ScreenFloat_-_Make_your_Shots_fly/ScreenFloat_-_Make_your_Shots_fly%21.html)
 
 #### Utilities
-- **Amphetamine**(무료/추천): 원하지 않을 때 잠자기모드 안 들어가게 해줌
-- **Bartender 3**(유료/추천): 상단에 아이콘 많아질때 정리해줌. 상주하는 앱을 많이 사용할 경우 사용해보자.
-- **GIF Brewery 3**(무료): gif 애니 만드는 앱
-- **iTranslate**(유료): 번역기인데 앱으로 되어있음
+- **Amphetamine**(무료/추천): 원하지 않을 때 잠자기모드 안 들어가게 해줌 [(링크)](https://itunes.apple.com/kr/app/amphetamine/id937984704?mt=12)
+- **Bartender 3**(유료/추천): 상단에 아이콘 많아질때 정리해줌. 상주하는 앱을 많이 사용할 경우 사용해보자. [(링크)](https://www.macbartender.com/)
+- **GIF Brewery 3**(무료): gif 애니 만드는 앱 [(링크)](https://itunes.apple.com/kr/app/gif-brewery-3-by-gfycat/id1081413713?mt=12)
 - **Language Switcher**(무료): 각 앱들을 기본 설정이 아닌 언어로 실행시킬 수 있음. 나는 차라리 영어가 나은 발번역된 앱에 씀.(요즘엔 OS를 영어로 바꾸면서 반대로 쓰고 있다. 한국어가 더 편리할 경우 사용.)
 - **Translatium**(유료): 구글 번역기인데 앱으로 되어있다. 요즘 종종 연결 오류가 난다..
 
 #### OS Manager & Security
-- **CleanMyMac 3**(유료/매우 추천): 프로그램 깔끔하게 지워주고 캐시/로그 등 찌꺼기 파일 날려서 용량 확보해줌
+- **CleanMyMac**(유료/매우 추천): 프로그램 깔끔하게 지워주고 캐시/로그 등 찌꺼기 파일 날려서 용량 확보해줌 [(링크)](https://macpaw.com/cleanmymac)
 - **Disk Space**(무료): 남은 용량 관리 도와줌. 어느 디렉토리가 용량 많은지 등등 알아봐줌
-- **Malwarebytes**(무료): 멀웨어 차단 보안 툴
-- **Sophos Home**(무료): 백신.
+- **Malwarebytes**(무료): 멀웨어 차단 보안 툴 [(링크)](https://www.malwarebytes.com/)
+- **Sophos Home**(무료): 백신. [(링크)](https://home.sophos.com/en-us/download-mac-anti-virus.aspx)
 
 #### File Manager
 - **Pixa**(유료): 이미지 관리 툴.
@@ -47,8 +46,8 @@ updated at: 2019-03-30
 - **Atom**(무료): 개발툴. 요즘 손이 잘 안 간다.
 - **VisualStudio Code**(무료): 개발툴. 요즘 간단한걸 작성할 땐 주로 이걸 쓰는데 이유는 단 하나다. 터미널에서 실행할 때 `code .`로 실행할 수 있어서.
 - **Sublime Text**(무료): 개발툴. 실행 속도 하나만큼은 최고라서 용량 큰 파일 뷰어로 사용중..
-- **FileZilla**(무료): FTP
-- **Postman**(무료/매우 추천): API등 통신 체크할때 편한 툴. 
+- **FileZilla**(무료): FTP [(링크)](https://filezilla-project.org/)
+- **Postman**(무료/매우 추천): API등 통신 체크할때 편한 툴. [(링크)](https://www.getpostman.com/downloads/)
 - **Sequel Pro**(무료): SQL관리 툴.. 가장 추천하는 툴 중 하나였는데 모하비 업데이트 이후로 탭 하나를 끄면 프로그램 자체가 크래시되는 버그가 발생했다. 회사에서는 손을 놓았고, 오픈소스로 기여한 사람들에 의해 패치판이 배포되었지만.. 더 큰 버그가 발생해서 떠나게 됨.
 - **Dash**: 개발 문서를 한 곳에서 보자. 문서 찾는 시간을 아껴준다. 스니팻 기능도 있는데, 알프레드가 없다면 사용해보자. [(링크)](https://kapeli.com/dash)
 
