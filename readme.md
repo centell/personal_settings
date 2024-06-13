@@ -1,7 +1,7 @@
 # personal_settings
 
 개인적으로 사용하는 세팅파일 저장소.  
-updated at: 2020-11-11
+updated at: 2024-06-13
 
 ## Mac 사용 설정
 ### 설정
