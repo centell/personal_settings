@@ -11,7 +11,7 @@ updated at: 2024-06-13
 - [Homebrew 설치](https://brew.sh/index_ko.html)
 - [Firebase 개발 환경](./firebase/firebase.md)
 - [Firefox userChrome.css](./firefox/userChrome.css)
-- [Atom styles.less](./atom/styles.less)
+- [Atom styles.less](./atom/styles.less) (요즘엔 사용하지 않음)
 
 ### 잘 쓰고 있는 Mac 앱들
 
